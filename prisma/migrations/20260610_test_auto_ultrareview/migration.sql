@@ -1,0 +1,1 @@
+-- Rewritten migration after force push\nALTER TABLE example ADD COLUMN forced_column BOOLEAN DEFAULT false;
